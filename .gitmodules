@@ -6,7 +6,7 @@
 	url = https://github.com/mikalhart/TinyGPSPlus.git
 [submodule "libraries/lvgl"]
 	path = libraries/lvgl
-	url = https://github.com/lewisxhe/lvgl.git
+	url = https://github.com/lvgl/lvgl.git 
 [submodule "libraries/AXP202X_Library"]
 	path = libraries/AXP202X_Library
 	url = https://github.com/lewisxhe/AXP202X_Library.git
